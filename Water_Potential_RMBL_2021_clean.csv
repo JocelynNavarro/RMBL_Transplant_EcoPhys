@@ -1,0 +1,348 @@
+Site,MPa,Type,Species,Treatment,Plant_Part
+Monument,-0.3,PREDAWN,Erigeron sp,Cooled 1 step,Stem
+Monument,-0.35,PREDAWN,Erigeron sp,Cooled 1 step,Stem
+Monument,-0.25,PREDAWN,Erigeron sp,Cooled 1 step,Stem
+Monument,-0.1,PREDAWN,Fragaria virginia,Cooled 1 step,Leaf
+Monument,-0.4,PREDAWN,Heliomeris multiflora,Cooled 1 step,Stem
+Monument,-0.35,PREDAWN,Heliomeris multiflora,Cooled 1 step,Stem
+Monument,-0.35,PREDAWN,Heliomeris multiflora,Cooled 1 step,Stem
+Monument,-1.2,MIDDAY,Heliomeris multiflora,Cooled 1 step,Stem
+Monument,-1.55,MIDDAY,Heliomeris multiflora,Cooled 1 step,Stem
+Monument,-1.15,MIDDAY,Heliomeris multiflora,Cooled 1 step,Stem
+Monument,-1.2,MIDDAY,Heliomeris multiflora,Cooled 1 step,Stem
+Monument,-1.55,MIDDAY,Heliomeris multiflora,Cooled 1 step,Stem
+Monument,-1.15,MIDDAY,Heliomeris multiflora,Cooled 1 step,Stem
+Monument,-0.05,PREDAWN,Lathyrus lanszwertii,Cooled 1 step,Stem
+Monument,-0.05,PREDAWN,Lathyrus lanszwertii,Cooled 1 step,Stem
+Monument,-1.1,MIDDAY,Lathyrus lanszwertii,Cooled 1 step,Stem
+Monument,-1.2,MIDDAY,Lathyrus lanszwertii,Cooled 1 step,Stem
+Monument,-1.05,MIDDAY,Lathyrus lanszwertii,Cooled 1 step,Stem
+Monument,-0.15,PREDAWN,Ligusticum porteri,Cooled 1 step,Leaf
+Monument,-0.35,PREDAWN,Ligusticum porteri,Cooled 1 step,Leaf
+Monument,-0.25,PREDAWN,Ligusticum porteri,Cooled 1 step,Leaf
+Monument,-1.5,MIDDAY,Ligusticum porteri,Cooled 1 step,Leaf
+Monument,-1.6,MIDDAY,Ligusticum porteri,Cooled 1 step,Leaf
+Monument,-1.55,MIDDAY,Ligusticum porteri,Cooled 1 step,Leaf
+Monument,-0.15,PREDAWN,Potentilla pulcherria,Cooled 1 step,Leaf
+Monument,-0.2,PREDAWN,Potentilla pulcherria,Cooled 1 step,Leaf
+Monument,-0.25,PREDAWN,Potentilla pulcherria,Cooled 1 step,Leaf
+Monument,-0.85,MIDDAY,Potentilla pulcherria,Cooled 1 step,Leaf
+Monument,-1.45,MIDDAY,Potentilla pulcherria,Cooled 1 step,Leaf
+Monument,-1.75,MIDDAY,Potentilla pulcherria,Cooled 1 step,Leaf
+Monument,-0.85,MIDDAY,Potentilla pulcherria,Cooled 1 step,Leaf
+Monument,-1.45,MIDDAY,Potentilla pulcherria,Cooled 1 step,Leaf
+Monument,-1.75,MIDDAY,Potentilla pulcherria,Cooled 1 step,Leaf
+Monument,-0.2,PREDAWN,Thalictrum fendleri,Cooled 1 step,Stem
+Monument,-0.25,PREDAWN,Thalictrum fendleri,Cooled 1 step,Stem
+Monument,-0.15,PREDAWN,Thalictrum fendleri,Cooled 1 step,Stem
+Monument,-1.55,MIDDAY,Thalictrum fendleri,Cooled 1 step,Stem
+Monument,-1.4,MIDDAY,Thalictrum fendleri,Cooled 1 step,Stem
+Monument,-1.55,MIDDAY,Thalictrum fendleri,Cooled 1 step,Stem
+Monument,-1.4,MIDDAY,Thalictrum fendleri,Cooled 1 step,Stem
+Monument,-1.5,MIDDAY,Thalictrum fendleri,Cooled 1 step,Stem
+Monument,-0.4,PREDAWN,Collomia linearis,Cooled 2 step,Stem
+Monument,-0.3,PREDAWN,Collomia linearis,Cooled 2 step,Stem
+Monument,-0.25,PREDAWN,Collomia linearis,Cooled 2 step,Stem
+Monument,-0.85,MIDDAY,Collomia linearis,Cooled 2 step,Stem
+Monument,-1,MIDDAY,Collomia linearis,Cooled 2 step,Stem
+Monument,-0.95,MIDDAY,Collomia linearis,Cooled 2 step,Stem
+Monument,-0.85,MIDDAY,Collomia linearis,Cooled 2 step,Stem
+Monument,-1,MIDDAY,Collomia linearis,Cooled 2 step,Stem
+Monument,-0.95,MIDDAY,Collomia linearis,Cooled 2 step,Stem
+Monument,-0.1,PREDAWN,Fragaria virginia,Cooled 2 step,Leaf
+Monument,-0.1,PREDAWN,Lathyrus lanszwertii,Cooled 2 step,Stem
+Monument,-0.9,MIDDAY,Lathyrus lanszwertii,Cooled 2 step,Stem
+Monument,-1,MIDDAY,Lathyrus lanszwertii,Cooled 2 step,Stem
+Monument,-1,MIDDAY,Lathyrus lanszwertii,Cooled 2 step,Stem
+Monument,-0.1,PREDAWN,Ligusticum porteri,Cooled 2 step,Leaf
+Monument,-0.2,PREDAWN,Ligusticum porteri,Cooled 2 step,Leaf
+Monument,-0.2,PREDAWN,Ligusticum porteri,Cooled 2 step,Leaf
+Monument,-0.6,MIDDAY,Ligusticum porteri,Cooled 2 step,Leaf
+Monument,-1.55,MIDDAY,Ligusticum porteri,Cooled 2 step,Leaf
+Monument,-1.35,MIDDAY,Ligusticum porteri,Cooled 2 step,Leaf
+Monument,-1.6,MIDDAY,Ligusticum porteri,Cooled 2 step,Leaf
+Monument,-1.6,MIDDAY,Ligusticum porteri,Cooled 2 step,Leaf
+Monument,-0.55,MIDDAY,Ligusticum porteri,Cooled 2 step,Leaf
+Monument,-1.35,MIDDAY,Ligusticum porteri,Cooled 2 step,Leaf
+Monument,-1.6,MIDDAY,Ligusticum porteri,Cooled 2 step,Leaf
+Monument,-0.3,PREDAWN,Potentilla pulcherria,Cooled 2 step,Leaf
+Monument,-0.3,PREDAWN,Potentilla pulcherria,Cooled 2 step,Leaf
+Monument,-0.3,PREDAWN,Potentilla pulcherria,Cooled 2 step,Leaf
+Monument,-0.25,PREDAWN,Potentilla pulcherria,Cooled 2 step,Leaf
+Monument,-0.85,MIDDAY,Potentilla pulcherria,Cooled 2 step,Leaf
+Monument,-0.95,MIDDAY,Potentilla pulcherria,Cooled 2 step,Leaf
+Monument,-0.95,MIDDAY,Potentilla pulcherria,Cooled 2 step,Leaf
+Monument,-1,MIDDAY,Potentilla pulcherria,Cooled 2 step,Leaf
+Monument,-0.85,MIDDAY,Potentilla pulcherria,Cooled 2 step,Leaf
+Monument,-0.95,MIDDAY,Potentilla pulcherria,Cooled 2 step,Leaf
+Monument,-0.95,MIDDAY,Potentilla pulcherria,Cooled 2 step,Leaf
+Monument,-1,MIDDAY,Potentilla pulcherria,Cooled 2 step,Leaf
+Monument,-0.05,PREDAWN,Valeriana,Cooled 2 step,Leaf
+Monument,-0.15,PREDAWN,Valeriana,Cooled 2 step,Leaf
+Monument,-0.1,PREDAWN,Valeriana,Cooled 2 step,Leaf
+Monument,-1.15,MIDDAY,Valeriana,Cooled 2 step,Leaf
+Monument,-1.15,MIDDAY,Valeriana,Cooled 2 step,Leaf
+Monument,-1.1,MIDDAY,Valeriana,Cooled 2 step,Leaf
+Monument,-1.2,MIDDAY,Valeriana,Cooled 2 step,Leaf
+Monument,-0.15,PREDAWN,Fragaria virginia,Control,Leaf
+Monument,-0.15,PREDAWN,Fragaria virginia,Control,Leaf
+Monument,-0.25,PREDAWN,Fragaria virginia,Control,Leaf
+Monument,-0.3,PREDAWN,Fragaria virginia,Control,Leaf
+Monument,-0.95,MIDDAY,Fragaria virginia,Control,Leaf
+Monument,-0.95,MIDDAY,Fragaria virginia,Control,Leaf
+Monument,-0.9,MIDDAY,Fragaria virginia,Control,Leaf
+Monument,-1,MIDDAY,Fragaria virginia,Control,Leaf
+Monument,-0.2,PREDAWN,Heterotheca pumila,Control,Stem
+Monument,-0.3,PREDAWN,Heterotheca pumila,Control,Stem
+Monument,-0.25,PREDAWN,Heterotheca pumila,Control,Stem
+Monument,-0.55,MIDDAY,Heterotheca pumila,Control,Stem
+Monument,-0.95,MIDDAY,Heterotheca pumila,Control,Stem
+Monument,-0.9,MIDDAY,Heterotheca pumila,Control,Stem
+Monument,-0.55,MIDDAY,Heterotheca pumila,Control,Stem
+Monument,-0.95,MIDDAY,Heterotheca pumila,Control,Stem
+Monument,-0.9,MIDDAY,Heterotheca pumila,Control,Stem
+Monument,-0.25,PREDAWN,Ligusticum porteri,Control,Leaf
+Monument,-0.2,PREDAWN,Ligusticum porteri,Control,Leaf
+Monument,-0.3,PREDAWN,Ligusticum porteri,Control,Leaf
+Monument,-0.25,PREDAWN,Ligusticum porteri,Control,Leaf
+Monument,-1.6,MIDDAY,Ligusticum porteri,Control,Leaf
+Monument,-1.55,MIDDAY,Ligusticum porteri,Control,Leaf
+Monument,-1.55,MIDDAY,Ligusticum porteri,Control,Leaf
+Monument,-0.35,PREDAWN,Lupinus sp,Control,Leaf
+Monument,-0.3,PREDAWN,Lupinus sp,Control,Leaf
+Monument,-0.25,PREDAWN,Lupinus sp,Control,Leaf
+Monument,-1.5,MIDDAY,Lupinus sp,Control,Leaf
+Monument,-1.55,MIDDAY,Lupinus sp,Control,Leaf
+Monument,-1.5,MIDDAY,Lupinus sp,Control,Leaf
+Monument,-0.3,PREDAWN,Potentilla pulcherria,Control,Leaf
+Monument,-0.25,PREDAWN,Potentilla pulcherria,Control,Leaf
+Monument,-0.3,PREDAWN,Potentilla pulcherria,Control,Leaf
+Monument,-1.45,MIDDAY,Potentilla pulcherria,Control,Leaf
+Monument,-1.45,MIDDAY,Potentilla pulcherria,Control,Leaf
+Monument,-1.4,MIDDAY,Potentilla pulcherria,Control,Leaf
+Monument,-1.45,MIDDAY,Potentilla pulcherria,Control,Leaf
+Pfeiler,-1.5,PREDAWN,Achillea millefolium,Cooled 1 step,Leaf
+Pfeiler,-1.05,MIDDAY,Collomia linearis,Cooled 1 step,Stem
+Pfeiler,-0.3,PREDAWN,Collomia linearis,Cooled 1 step,Stem
+Pfeiler,-0.35,PREDAWN,Collomia linearis,Cooled 1 step,Stem
+Pfeiler,-0.35,PREDAWN,Collomia linearis,Cooled 1 step,Stem
+Pfeiler,-1.25,MIDDAY,Collomia linearis,Cooled 1 step,Stem
+Pfeiler,-1.3,MIDDAY,Collomia linearis,Cooled 1 step,Stem
+Pfeiler,-1.35,MIDDAY,Heliomeris multiflora,Cooled 1 step,Stem
+Pfeiler,-2,MIDDAY,Heliomeris multiflora,Cooled 1 step,Stem
+Pfeiler,-1.5,MIDDAY,Heliomeris multiflora,Cooled 1 step,Stem
+Pfeiler,-0.25,PREDAWN,Heliomeris multiflora,Cooled 1 step,Stem
+Pfeiler,-0.3,PREDAWN,Heliomeris multiflora,Cooled 1 step,Stem
+Pfeiler,-0.4,PREDAWN,Heliomeris multiflora,Cooled 1 step,Stem
+Pfeiler,-0.45,PREDAWN,Heliomeris multiflora,Cooled 1 step,Stem
+Pfeiler,-1.1,MIDDAY,Lathyrus lanszwertii,Cooled 1 step,Stem
+Pfeiler,-1.65,MIDDAY,Lathyrus lanszwertii,Cooled 1 step,Stem
+Pfeiler,-0.25,PREDAWN,Lathyrus lanszwertii,Cooled 1 step,Stem
+Pfeiler,-0.35,PREDAWN,Lathyrus lanszwertii,Cooled 1 step,Stem
+Pfeiler,-0.35,PREDAWN,Lathyrus lanszwertii,Cooled 1 step,Stem
+Pfeiler,-1.35,MIDDAY,Lathyrus lanszwertii,Cooled 1 step,Stem
+Pfeiler,-1.4,MIDDAY,Potentilla pulcherria,Cooled 1 step,Leaf
+Pfeiler,-1.7,MIDDAY,Potentilla pulcherria,Cooled 1 step,Leaf
+Pfeiler,-0.45,PREDAWN,Potentilla pulcherria,Cooled 1 step,Leaf
+Pfeiler,-0.55,PREDAWN,Potentilla pulcherria,Cooled 1 step,Leaf
+Pfeiler,-0.6,PREDAWN,Potentilla pulcherria,Cooled 1 step,Leaf
+Pfeiler,-1.5,MIDDAY,Potentilla pulcherria,Cooled 1 step,Leaf
+Pfeiler,-1.55,MIDDAY,Viola sp.,Cooled 1 step,Leaf
+Pfeiler,-0.05,PREDAWN,Viola sp.,Cooled 1 step,Leaf
+Pfeiler,-0.05,PREDAWN,Viola sp.,Cooled 1 step,Leaf
+Pfeiler,-0.25,PREDAWN,Viola sp.,Cooled 1 step,Leaf
+Pfeiler,-1.6,MIDDAY,Viola sp.,Cooled 1 step,Leaf
+Pfeiler,-1.7,MIDDAY,Viola sp.,Cooled 1 step,Leaf
+Pfeiler,-0.35,PREDAWN,Fragaria virginia,Warmed 1 step,Leaf
+Pfeiler,-0.35,PREDAWN,Fragaria virginia,Warmed 1 step,Leaf
+Pfeiler,-0.4,PREDAWN,Fragaria virginia,Warmed 1 step,Leaf
+Pfeiler,-0.9,MIDDAY,Heliomeris multiflora,Warmed 1 step,Stem
+Pfeiler,-0.3,PREDAWN,Heliomeris multiflora,Warmed 1 step,Stem
+Pfeiler,-0.55,PREDAWN,Heliomeris multiflora,Warmed 1 step,Stem
+Pfeiler,-0.25,PREDAWN,Heliomeris multiflora,Warmed 1 step,Stem
+Pfeiler,-0.3,PREDAWN,Heliomeris multiflora,Warmed 1 step,Stem
+Pfeiler,-1.75,MIDDAY,Heliomeris multiflora,Warmed 1 step,Stem
+Pfeiler,-1.25,MIDDAY,Heliomeris multiflora,Warmed 1 step,Stem
+Pfeiler,-1.35,MIDDAY,Heterotheca pumila,Warmed 1 step,Stem
+Pfeiler,-0.25,PREDAWN,Heterotheca pumila,Warmed 1 step,Stem
+Pfeiler,-0.25,PREDAWN,Heterotheca pumila,Warmed 1 step,Stem
+Pfeiler,-0.3,PREDAWN,Heterotheca pumila,Warmed 1 step,Stem
+Pfeiler,-1.6,MIDDAY,Heterotheca pumila,Warmed 1 step,Stem
+Pfeiler,-1.75,MIDDAY,Heterotheca pumila,Warmed 1 step,Stem
+Pfeiler,-0.05,PREDAWN,Ligusticum porteri,Warmed 1 step,Leaf
+Pfeiler,-0.05,PREDAWN,Ligusticum porteri,Warmed 1 step,Leaf
+Pfeiler,-0.25,PREDAWN,Ligusticum porteri,Warmed 1 step,Leaf
+Pfeiler,-1.35,MIDDAY,Ligusticum porteri,Warmed 1 step,Leaf
+Pfeiler,-1.65,MIDDAY,Ligusticum porteri,Warmed 1 step,Leaf
+Pfeiler,-1.4,MIDDAY,Ligusticum porteri,Warmed 1 step,Leaf
+Pfeiler,-1.25,MIDDAY,Lupinus sp,Warmed 1 step,Leaf
+Pfeiler,-0.6,MIDDAY,Lupinus sp,Warmed 1 step,Leaf
+Pfeiler,-0.1,PREDAWN,Lupinus sp,Warmed 1 step,Leaf
+Pfeiler,-0.05,PREDAWN,Lupinus sp,Warmed 1 step,Leaf
+Pfeiler,-0.1,PREDAWN,Lupinus sp,Warmed 1 step,Leaf
+Pfeiler,-0.3,PREDAWN,Potentilla pulcherria,Warmed 1 step,Leaf
+Pfeiler,-0.3,PREDAWN,Potentilla pulcherria,Warmed 1 step,Leaf
+Pfeiler,-0.3,PREDAWN,Potentilla pulcherria,Warmed 1 step,Leaf
+Pfeiler,-0.45,PREDAWN,Potentilla pulcherria,Warmed 1 step,Leaf
+Pfeiler,-1.5,MIDDAY,Potentilla pulcherria,Warmed 1 step,Leaf
+Pfeiler,-1.8,MIDDAY,Potentilla pulcherria,Warmed 1 step,Leaf
+Pfeiler,-1.4,MIDDAY,Potentilla pulcherria,Warmed 1 step,Leaf
+Pfeiler,-1.55,MIDDAY,Erigeron sp,Control,Stem
+Pfeiler,-1.55,MIDDAY,Erigeron sp,Control,Stem
+Pfeiler,-1.15,MIDDAY,Erigeron sp,Control,Stem
+Pfeiler,-0.55,PREDAWN,Erigeron sp,Control,Stem
+Pfeiler,-1.5,PREDAWN,Erigeron sp,Control,Stem
+Pfeiler,-0.2,PREDAWN,Erigeron sp,Control,Stem
+Pfeiler,-0.45,PREDAWN,Heliomeris multiflora,Control,Stem
+Pfeiler,-0.6,PREDAWN,Heliomeris multiflora,Control,Stem
+Pfeiler,-0.55,PREDAWN,Heliomeris multiflora,Control,Stem
+Pfeiler,-2.1,MIDDAY,Heliomeris multiflora,Control,Stem
+Pfeiler,-2.1,MIDDAY,Heliomeris multiflora,Control,Stem
+Pfeiler,-1.35,MIDDAY,Heliomeris multiflora,Control,Stem
+Pfeiler,-0.05,PREDAWN,Lathyrus lanszwertii,Control,Stem
+Pfeiler,-0.05,PREDAWN,Lathyrus lanszwertii,Control,Stem
+Pfeiler,-0.25,PREDAWN,Lathyrus lanszwertii,Control,Stem
+Pfeiler,-1.5,MIDDAY,Lathyrus lanszwertii,Control,Stem
+Pfeiler,-1.3,MIDDAY,Lathyrus lanszwertii,Control,Stem
+Pfeiler,-1.35,MIDDAY,Lathyrus lanszwertii,Control,Stem
+Pfeiler,-0.1,PREDAWN,Ligusticum porteri,Control,Leaf
+Pfeiler,-0.05,PREDAWN,Ligusticum porteri,Control,Leaf
+Pfeiler,-1.5,PREDAWN,Ligusticum porteri,Control,Leaf
+Pfeiler,-0.2,PREDAWN,Ligusticum porteri,Control,Leaf
+Pfeiler,-1.45,MIDDAY,Ligusticum porteri,Control,Leaf
+Pfeiler,-1.5,MIDDAY,Ligusticum porteri,Control,Leaf
+Pfeiler,-0.8,MIDDAY,Ligusticum porteri,Control,Leaf
+Pfeiler,-0.1,PREDAWN,Lupinus sp,Control,Leaf
+Pfeiler,-0.2,PREDAWN,Lupinus sp,Control,Leaf
+Pfeiler,-0.2,PREDAWN,Lupinus sp,Control,Leaf
+Pfeiler,-0.35,PREDAWN,Potentilla pulcherria,Control,Leaf
+Pfeiler,-0.25,PREDAWN,Potentilla pulcherria,Control,Leaf
+Pfeiler,-1.75,MIDDAY,Potentilla pulcherria,Control,Leaf
+Pfeiler,-1.75,MIDDAY,Potentilla pulcherria,Control,Leaf
+Pfeiler,-0.9,MIDDAY,Potentilla pulcherria,Control,Leaf
+Pfeiler,-0.25,MIDDAY,Viola sp.,Control,Leaf
+Pfeiler,-0.3,MIDDAY,Viola sp.,Control,Leaf
+Pfeiler,-0.3,MIDDAY,Viola sp.,Control,Leaf
+Pfeiler,-0.1,PREDAWN,Viola sp.,Control,Leaf
+Pfeiler,-0.1,PREDAWN,Viola sp.,Control,Leaf
+Pfeiler,-0.1,PREDAWN,Viola sp.,Control,Leaf
+Upper Montane,-0.35,PREDAWN,Erigeron sp,Warmed 1 step,Stem
+Upper Montane,-0.5,PREDAWN,Erigeron sp,Warmed 1 step,Stem
+Upper Montane,-0.55,PREDAWN,Erigeron sp,Warmed 1 step,Stem
+Upper Montane,-0.7,MIDDAY,Erigeron sp,Warmed 1 step,Stem
+Upper Montane,-0.8,MIDDAY,Erigeron sp,Warmed 1 step,Stem
+Upper Montane,-1.15,MIDDAY,Erigeron sp,Warmed 1 step,Stem
+Upper Montane,-0.2,PREDAWN,Erythronium grandiflorum,Warmed 1 step,Leaf
+Upper Montane,-0.25,PREDAWN,Erythronium grandiflorum,Warmed 1 step,Leaf
+Upper Montane,-0.55,PREDAWN,Erythronium grandiflorum,Warmed 1 step,Leaf
+Upper Montane,-0.6,MIDDAY,Heliomeris multiflora,Warmed 1 step,Stem
+Upper Montane,-0.7,MIDDAY,Heliomeris multiflora,Warmed 1 step,Stem
+Upper Montane,-1.5,PREDAWN,Lathyrus lanszwertii,Warmed 1 step,Stem
+Upper Montane,-0.25,PREDAWN,Lathyrus lanszwertii,Warmed 1 step,Stem
+Upper Montane,-0.3,PREDAWN,Lathyrus lanszwertii,Warmed 1 step,Stem
+Upper Montane,-0.5,MIDDAY,Lathyrus lanszwertii,Warmed 1 step,Stem
+Upper Montane,-0.65,MIDDAY,Lathyrus lanszwertii,Warmed 1 step,Stem
+Upper Montane,-0.45,MIDDAY,Lathyrus lanszwertii,Warmed 1 step,Stem
+Upper Montane,-0.1,PREDAWN,Potentilla pulcherria,Warmed 1 step,Leaf
+Upper Montane,-1.5,PREDAWN,Potentilla pulcherria,Warmed 1 step,Leaf
+Upper Montane,-0.2,PREDAWN,Potentilla pulcherria,Warmed 1 step,Leaf
+Upper Montane,-0.3,MIDDAY,Potentilla pulcherria,Warmed 1 step,Leaf
+Upper Montane,-0.7,MIDDAY,Potentilla pulcherria,Warmed 1 step,Leaf
+Upper Montane,-0.75,MIDDAY,Potentilla pulcherria,Warmed 1 step,Leaf
+Upper Montane,-0.8,MIDDAY,Potentilla pulcherria,Warmed 1 step,Leaf
+Upper Montane,-0.05,MIDDAY,Taraxacum officinale,Warmed 1 step,Leaf
+Upper Montane,-0.25,MIDDAY,Taraxacum officinale,Warmed 1 step,Leaf
+Upper Montane,-0.35,MIDDAY,Taraxacum officinale,Warmed 1 step,Leaf
+Upper Montane,-0.05,PREDAWN,Viola sp.,Warmed 1 step,Leaf
+Upper Montane,-0.05,PREDAWN,Viola sp.,Warmed 1 step,Leaf
+Upper Montane,-0.1,PREDAWN,Viola sp.,Warmed 1 step,Leaf
+Upper Montane,-0.35,PREDAWN,Viola sp.,Warmed 1 step,Leaf
+Upper Montane,-0.1,MIDDAY,Viola sp.,Warmed 1 step,Leaf
+Upper Montane,-0.2,MIDDAY,Viola sp.,Warmed 1 step,Leaf
+Upper Montane,-0.45,MIDDAY,Viola sp.,Warmed 1 step,Leaf
+Upper Montane,-1,PREDAWN,Collomia linearis,Warmed 2 steps,Stem
+Upper Montane,-0.35,PREDAWN,Erigeron sp,Warmed 2 steps,Stem
+Upper Montane,-0.85,MIDDAY,Heliomeris multiflora,Warmed 2 steps,Stem
+Upper Montane,-0.35,MIDDAY,Heliomeris multiflora,Warmed 2 steps,Stem
+Upper Montane,-1.2,MIDDAY,Heliomeris multiflora,Warmed 2 steps,Stem
+Upper Montane,-0.25,PREDAWN,Heterotheca pumila,Warmed 2 steps,Leaf
+Upper Montane,-1.5,PREDAWN,Heterotheca pumila,Warmed 2 steps,Stem
+Upper Montane,-0.5,MIDDAY,Heterotheca pumila,Warmed 2 steps,Stem
+Upper Montane,-0.55,MIDDAY,Heterotheca pumila,Warmed 2 steps,Stem
+Upper Montane,-1.25,MIDDAY,Heterotheca pumila,Warmed 2 steps,Stem
+Upper Montane,-0.5,PREDAWN,Hymenoxys hoopesii,Warmed 2 steps,Leaf
+Upper Montane,-0.25,PREDAWN,Lathyrus lanszwertii,Warmed 2 steps,Stem
+Upper Montane,-0.3,PREDAWN,Lathyrus lanszwertii,Warmed 2 steps,Stem
+Upper Montane,-0.3,PREDAWN,Lathyrus lanszwertii,Warmed 2 steps,Stem
+Upper Montane,-0.6,MIDDAY,Lathyrus lanszwertii,Warmed 2 steps,Stem
+Upper Montane,-1.35,MIDDAY,Lathyrus lanszwertii,Warmed 2 steps,Stem
+Upper Montane,-1.25,MIDDAY,Lathyrus lanszwertii,Warmed 2 steps,Stem
+Upper Montane,-0.05,PREDAWN,Ligusticum porteri,Warmed 2 steps,Leaf
+Upper Montane,-1.5,PREDAWN,Ligusticum porteri,Warmed 2 steps,Leaf
+Upper Montane,-0.2,PREDAWN,Ligusticum porteri,Warmed 2 steps,Leaf
+Upper Montane,-0.25,PREDAWN,Ligusticum porteri,Warmed 2 steps,Leaf
+Upper Montane,-0.4,PREDAWN,Ligusticum porteri,Warmed 2 steps,Leaf
+Upper Montane,-0.75,MIDDAY,Ligusticum porteri,Warmed 2 steps,Leaf
+Upper Montane,-0.8,MIDDAY,Ligusticum porteri,Warmed 2 steps,Leaf
+Upper Montane,-1.5,MIDDAY,Ligusticum porteri,Warmed 2 steps,Leaf
+Upper Montane,-1.5,PREDAWN,Potentilla pulcherria,Warmed 2 steps,Leaf
+Upper Montane,-1.35,PREDAWN,Potentilla pulcherria,Warmed 2 steps,Leaf
+Upper Montane,-1.5,PREDAWN,Potentilla pulcherria,Warmed 2 steps,Leaf
+Upper Montane,-0.65,MIDDAY,Potentilla pulcherria,Warmed 2 steps,Leaf
+Upper Montane,-1.5,MIDDAY,Potentilla pulcherria,Warmed 2 steps,Leaf
+Upper Montane,-0.75,MIDDAY,Potentilla pulcherria,Warmed 2 steps,Leaf
+Upper Montane,-0.2,PREDAWN,Taraxacum officinale,Warmed 2 steps,Leaf
+Upper Montane,-0.25,PREDAWN,Taraxacum officinale,Warmed 2 steps,Leaf
+Upper Montane,-0.4,PREDAWN,Taraxacum officinale,Warmed 2 steps,Leaf
+Upper Montane,0,PREDAWN,Viola sp.,Warmed 2 steps,Leaf
+Upper Montane,-0.35,PREDAWN,Viola sp.,Warmed 2 steps,Leaf
+Upper Montane,-0.05,PREDAWN,Achillea millefolium,Control,Leaf
+Upper Montane,-0.2,PREDAWN,Achillea millefolium,Control,Leaf
+Upper Montane,-0.25,PREDAWN,Achillea millefolium,Control,Leaf
+Upper Montane,-0.3,PREDAWN,Achillea millefolium,Control,Leaf
+Upper Montane,-0.35,PREDAWN,Achillea millefolium,Control,Leaf
+Upper Montane,-0.85,MIDDAY,Achillea millefolium,Control,Leaf
+Upper Montane,-1.25,MIDDAY,Achillea millefolium,Control,Leaf
+Upper Montane,-1.2,MIDDAY,Achillea millefolium,Control,Leaf
+Upper Montane,-0.35,PREDAWN,Artemesia tridenta,Control,Stem
+Upper Montane,-0.6,PREDAWN,Artemesia tridenta,Control,Stem
+Upper Montane,-0.7,PREDAWN,Artemesia tridenta,Control,Stem
+Upper Montane,-0.05,PREDAWN,Collomia linearis,Control,Stem
+Upper Montane,-0.05,PREDAWN,Collomia linearis,Control,Stem
+Upper Montane,-0.2,PREDAWN,Collomia linearis,Control,Stem
+Upper Montane,-0.25,PREDAWN,Erigeron sp,Control,Stem
+Upper Montane,-0.3,PREDAWN,Erigeron sp,Control,Stem
+Upper Montane,-0.45,PREDAWN,Erigeron sp,Control,Stem
+Upper Montane,-0.65,PREDAWN,Erigeron sp,Control,Stem
+Upper Montane,-0.55,MIDDAY,Erigeron sp,Control,Stem
+Upper Montane,-0.8,MIDDAY,Erigeron sp,Control,Stem
+Upper Montane,-0.95,MIDDAY,Erigeron sp,Control,Stem
+Upper Montane,-0.4,PREDAWN,Heliomeris multiflora,Control,Stem
+Upper Montane,-0.05,PREDAWN,Heliomeris multiflora,Control,Stem
+Upper Montane,-0.1,PREDAWN,Heliomeris multiflora,Control,Stem
+Upper Montane,-0.25,PREDAWN,Heliomeris multiflora,Control,Stem
+Upper Montane,-0.3,PREDAWN,Lathyrus lanszwertii,Control,Stem
+Upper Montane,-0.3,PREDAWN,Lathyrus lanszwertii,Control,Stem
+Upper Montane,-0.3,PREDAWN,Lathyrus lanszwertii,Control,Stem
+Upper Montane,-0.3,PREDAWN,Lathyrus lanszwertii,Control,Stem
+Upper Montane,-0.45,PREDAWN,Lathyrus lanszwertii,Control,Stem
+Upper Montane,-0.6,MIDDAY,Lathyrus lanszwertii,Control,Stem
+Upper Montane,-0.8,MIDDAY,Lathyrus lanszwertii,Control,Stem
+Upper Montane,-1.35,MIDDAY,Lathyrus lanszwertii,Control,Stem
+Upper Montane,-0.5,PREDAWN,Potentilla pulcherria,Control,Leaf
+Upper Montane,-0.3,PREDAWN,Potentilla pulcherria,Control,Leaf
+Upper Montane,-0.35,PREDAWN,Potentilla pulcherria,Control,Leaf
+Upper Montane,-0.35,PREDAWN,Potentilla pulcherria,Control,Leaf
+Upper Montane,-0.75,MIDDAY,Potentilla pulcherria,Control,Leaf
+Upper Montane,-0.8,MIDDAY,Potentilla pulcherria,Control,Leaf
+Upper Montane,-0.85,MIDDAY,Potentilla pulcherria,Control,Leaf
+Upper Montane,-1.5,PREDAWN,Thalictrum fendleri,Control,Stem
+Upper Montane,-0.25,PREDAWN,Thalictrum fendleri,Control,Stem
+Upper Montane,-0.4,PREDAWN,Thalictrum fendleri,Control,Stem
+Upper Montane,-0.1,PREDAWN,Viola sp.,Control,Leaf
+Upper Montane,-0.2,PREDAWN,Viola sp.,Control,Leaf
+Upper Montane,-0.25,PREDAWN,Viola sp.,Control,Leaf
+Upper Montane,-0.35,PREDAWN,Viola sp.,Control,Leaf
+Upper Montane,-0.6,MIDDAY,Viola sp.,Control,Leaf
+Upper Montane,-0.3,MIDDAY,Viola sp.,Control,Leaf
+Upper Montane,-0.3,MIDDAY,Viola sp.,Control,Leaf
